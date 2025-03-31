@@ -128,3 +128,10 @@ ul li a:hover{
     color: rgb(red, green, blue)
 }
     
+footer {
+    text-align: center;
+    padding: 15px;
+    background: black;
+    color: white;
+    margin-top: 20px;
+}
